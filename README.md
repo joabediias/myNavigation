@@ -21,6 +21,9 @@ UPDATE LINES OF CODE ON THE COMAND LINE
     git push
 
 INSTALL DEPENDENCES
-    npm install @react-navigation/native @react-navigation/native-stack @react-navigation/bottom-tabs
+    npm install @react-navigation/native 
+    npm install @react-navigation/native-stack 
+    npm install @react-navigation/drawer 
+    npm install @react-navigation/bottom-tabs
 
     npx expo install react-native-screens react-native-safe-area-context
